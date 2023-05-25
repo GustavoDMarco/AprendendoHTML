@@ -1,2 +1,3 @@
 # AprendendoHTML
-Treinando HTML e conceitos de GIT
+Fazendo uma página com minhas redes sociais, para colocar em prática conhecimentos em HTML e GIT.
+
